@@ -2,7 +2,6 @@
 - 👀 I’m interested in Biomedical Signal Analysis, Biomolecular Modelling and Computer Vision.
 - 🌱 I’m currently learning about ECG Signal Processing.
 - 💞️ I’m looking to collaborate on any project related to my field of interest.
-- 📫 You can contact me at: tanujqad@gmail.com
 
 <!---
 Tanuj-Khandelwal/Tanuj-Khandelwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
